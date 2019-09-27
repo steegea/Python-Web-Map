@@ -1,5 +1,7 @@
 """
 An app that creates a map which displays population and volcano data
+
+Population data is from 2005
 """
 
 import folium
