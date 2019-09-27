@@ -7,6 +7,7 @@
 ### Technologies Used
 
 * Python
+  * *geopip*: Geojson Point in Polygon
   * *html* library
   * Third-party libraries: Pandas, Folium
   
